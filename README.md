@@ -3,6 +3,7 @@
 
 # 已收容
 [冰封千里ice1000](ice1000.md)
+[灰灰](huihui.md)
 
 # 作者
 [湛兮](https://github.com/sivanzhao)
