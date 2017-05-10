@@ -7,4 +7,4 @@
 
 # 作者
 [湛兮](https://github.com/cleanest0)<br />
-[ShinoChocolate](https://github. com/ShinoChocolate)
+[ShinoChocolate](https://github.com/ShinoChocolate)
