@@ -6,5 +6,5 @@
 [SCP-PL-002 灰灰](huihui.md)
 
 # 作者
-[湛兮](https://github.com/cleanest0)
+[湛兮](https://github.com/cleanest0)<br />
 [ShinoChocolate](https://github. com/ShinoChocolate)
