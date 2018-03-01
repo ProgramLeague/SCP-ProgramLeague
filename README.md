@@ -2,10 +2,10 @@
 这里是SCP基金会ProgramLeague分部.
 
 # 已收容
->[SCP-PL-001 冰封千里ice1000](ice1000.md) <br />
-[SCP-PL-002 灰灰](huihui.md)<br />
-[SCP-PL-003 湛兮](oxwei.md)<br />
-[SCP-PL-004 河灯(RiverLight（瞎翻译）)](RiverLight.md)<br />
+>[SCP-PL-001 冰封千里(ice1000)](ice1000.md) <br />
+[SCP-PL-002 灰灰(?)](huihui.md)<br />
+[SCP-PL-003 湛兮(oxwei)](oxwei.md)<br />
+[SCP-PL-004 河灯(akirina)](akirina.md)<br />
 
 # 作者
 >[湛兮](https://github.com/oxwei)<br />
