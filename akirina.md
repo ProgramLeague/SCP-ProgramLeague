@@ -25,7 +25,8 @@
 > 据猜测河灯可能是个人工智能生命体。项目从来没有任何实体资料，也没有除了SCP-PL-001之外的报告过目击。
 已观测到
 
-2018/03/01 更新：千里冰封提议将RiverLight更名为arkirina.
-2018/03/01 Update: Something went wrong while updating this repository.
+2018/03/01 Chocolate 更新：千里冰封提议将RiverLight更名为arkirina.
+
+2018/03/01 SCP-PL-004 Update: Something went wrong while updating this repository.
 
 河灯现被安置于ProgramLeague组织内，目前千里冰封逃离设施外出打工，河灯表现良好，没有反常迹象。
