@@ -9,4 +9,4 @@
 
 # 作者
 >[湛兮](https://github.com/oxwei)<br />
-[巧克力](https://github.com/ShinoChocolate)<br />
+[巧克力](https://github.com/NekoToChocolate)<br />
